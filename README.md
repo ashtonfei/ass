@@ -1,9 +1,9 @@
 # Apps Script Simplified 
-Your Guide to Google Workspace Automation.
+Your guide to Google Workspace automation, designed for non developers.
 
 ### Table of Contents
 
-#### Introduction to Google Apps Script and Google Sheets
+#### Module 1: Introduction to Google Apps Script and Google Sheets
 
 | Lesson | Title | YouTube | Deck | Sheets | Post |
 |:---|:------------|:----|:----|:----|:----|
@@ -15,7 +15,16 @@ Your Guide to Google Workspace Automation.
 |06| Understanding Script Editor Features| tbd | tbd | tbd | tbd  |
 |07| Best Practices for Writing Apps Script Code | tbd | tbd | tbd | tbd  |
 
+#### Module 2: JavaScript Basics for Apps Script
 
-#### JavaScript Basics for Apps Script
+#### Module 3: Automating Google Sheets
 
-#### Automating Google Sheets
+#### Module 4: Advanced Google Sheets Automation
+
+#### Module 5: Building Custom Functions and Add-ons
+
+#### Module 6: Working with External APIs and Integrations
+
+#### Module 7: Real-World Google Sheets Automation Projects
+
+#### Module 8: Advanced Features and Optimization
