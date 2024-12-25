@@ -6,7 +6,7 @@ Your Guide to Google Workspace Automation.
 #### Introduction to Google Apps Script and Google Sheets
 
 | Lesson | Title | YouTube | Deck | Sheets | Post |
-|:---|:---|:---|:---|:---|:---|
+|:---|:---------|:----|:----|:----|:----|
 |01| Overview of Google Apps Script | youtube | https://bit.ly/4gppCRU | https://bit.ly/3PcE7fZ | https://bit.ly/ass01_ytt  |
 |02| Setting Up Your Apps Script Environment | tbd | tbd | tbd | tbd  |
 |03| Introduction to the Google Sheets API | tbd | tbd | tbd | tbd  |
