@@ -1,0 +1,22 @@
+{
+  "name": "ass",
+  "version": "1.0.0",
+  "description": "Apps Script Simplified",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.86"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashtonfei/ass.git"
+  },
+  "author": "Ashton Fei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashtonfei/ass/issues"
+  },
+  "homepage": "https://github.com/ashtonfei/ass#readme"
+}
