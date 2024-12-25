@@ -1,7 +1,7 @@
 # Apps Script Simplified 
 Your guide to Google Workspace automation, designed for non developers.
 
-[![ass](https://github.com/user-attachments/assets/1ebcec74-efe4-4af9-90b8-bb96e6d4b67b)](https://www.onescript.work/2024/12/apps-script-simplified.html)
+[![ass](https://github.com/user-attachments/assets/1ebcec74-efe4-4af9-90b8-bb96e6d4b67b)](https://bit.ly/3PdQjNE)
 
 
 ### Table of Contents
