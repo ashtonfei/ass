@@ -11,3 +11,7 @@ function onOpen() {
     .addItem("Hello World", "helloWorld")
     .addToUi();
 }
+
+function sendEmail() {
+  GmailApp.sendEmail("email@gmail.com", "Subject", "Body");
+}
