@@ -12,7 +12,7 @@ Your guide to Google Workspace automation, designed for non developers.
 |:---|:------------|:----|:----|:----|:----|
 |01| Overview of Google Apps Script | [Link](https://youtu.be/mWicOLDfvSY) | [Link](https://bit.ly/4gppCRU) | [Link](https://bit.ly/3PcE7fZ) | [Link](https://bit.ly/3ZPL37M)  |
 |02| Setting Up Your Apps Script Environment | [Link](https://youtu.be/25-GTI8FZ-Y) | [Link](https://bit.ly/4gSSnpN) | [Link](https://bit.ly/4iNzJBz) | [Link](https://bit.ly/41Jn50u)  |
-|03| Introduction to the Google Sheets API | tbd | tbd | tbd | tbd  |
+|03| Create Your First Apps Script Project | [Link]() | tbd | [Link](https://bit.ly/3DuR7uO) | [Link](https://bit.ly/3VYFD9d)  |
 
 #### Module 2: JavaScript Basics for Apps Script
 
