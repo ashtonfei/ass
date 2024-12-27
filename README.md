@@ -8,11 +8,11 @@ Your guide to Google Workspace automation, designed for non developers.
 
 #### Module 1: Introduction to Google Apps Script and Google Sheets
 
-| Lesson | Title | YouTube | Deck | Copy | Post |
+| Lesson | Title | YouTube | Post |
 |:---|:------------|:----|:----|:----|:----|
-|01| Overview of Google Apps Script | [Link](https://youtu.be/mWicOLDfvSY) | [Link](https://bit.ly/4gppCRU) | [Link](https://bit.ly/3PcE7fZ) | [Link](https://bit.ly/3ZPL37M)  |
-|02| Setting Up Your Apps Script Environment | [Link](https://youtu.be/25-GTI8FZ-Y) | [Link](https://bit.ly/4gSSnpN) | [Link](https://bit.ly/4iNzJBz) | [Link](https://bit.ly/41Jn50u)  |
-|03| Create Your First Apps Script Project | [Link]() | tbd | [Link](https://bit.ly/3DuR7uO) | [Link](https://bit.ly/3VYFD9d)  |
+|01| [Overview of Google Apps Script](https://github.com/ashtonfei/ass/tree/main/tutorial/01) | [Link](https://youtu.be/mWicOLDfvSY) | [Link](https://bit.ly/3ZPL37M)  |
+|02| [Setting Up Your Apps Script Environment](https://github.com/ashtonfei/ass/tree/main/tutorial/02) | [Link](https://youtu.be/25-GTI8FZ-Y) | [Link](https://bit.ly/41Jn50u)  |
+|03| [Create Your First Apps Script Project](https://github.com/ashtonfei/ass/tree/main/tutorial/03)| [Link](https://youtu.be/bx1AVot4EEg) | [Link](https://bit.ly/3VYFD9d)  |
 
 #### Module 2: JavaScript Basics for Apps Script
 
