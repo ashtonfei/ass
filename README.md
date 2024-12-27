@@ -10,7 +10,9 @@ Get ready to explore the exciting world of Google Apps Script and unleash the tr
 
 [Read more ...](https://bit.ly/3PdQjNE) 
 
-[![ass](https://github.com/user-attachments/assets/1ebcec74-efe4-4af9-90b8-bb96e6d4b67b)](https://bit.ly/3PdQjNE)
+[Join YouTube Memeberships](https://bit.ly/3VQFyED)
+
+[![ass](https://github.com/user-attachments/assets/1ebcec74-efe4-4af9-90b8-bb96e6d4b67b)](https://www.youtube.com/playlist?list=PLQhwjnEjYj8DTJLfJ9IMR-gbIqE2ko_Dk)
 
 
 ### Table of Contents
