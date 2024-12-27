@@ -1,5 +1,14 @@
 # Apps Script Simplified 
-Your guide to Google Workspace automation, designed for non developers.
+
+Welcome to "Apps Script Simplified: Your Guide to Google Workspace Automation" — a comprehensive resource for anyone looking to unlock the full potential of Google Workspace apps using Apps Script. In this guide, we will embark on a journey of automating tasks, streamlining workflows, and transforming Apps Script into a powerful tool for your daily workflow.
+
+
+Whether you're a novice or an experienced developer, this guide is designed to provide you with the knowledge and skills necessary to automate repetitive tasks, enhance data visualization, and integrate Google Sheets with other Google services.
+
+
+Get ready to explore the exciting world of Google Apps Script and unleash the true potential of Google Workspace apps.
+
+[Read more ...](https://bit.ly/3PdQjNE) 
 
 [![ass](https://github.com/user-attachments/assets/1ebcec74-efe4-4af9-90b8-bb96e6d4b67b)](https://bit.ly/3PdQjNE)
 
