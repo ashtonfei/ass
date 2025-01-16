@@ -24,6 +24,7 @@ Get ready to explore the exciting world of Google Apps Script and unleash the tr
 | [ASS01: Overview of Google Apps Script](https://github.com/ashtonfei/ass/tree/main/tutorial/01) | [Watch](https://youtu.be/mWicOLDfvSY) | [Read](https://bit.ly/3ZPL37M)  |
 | [ASS02: Setting Up Your Apps Script Environment](https://github.com/ashtonfei/ass/tree/main/tutorial/02) | [Watch](https://youtu.be/25-GTI8FZ-Y) | [Read](https://bit.ly/41Jn50u)  |
 | [ASS03: Create Your First Apps Script Project](https://github.com/ashtonfei/ass/tree/main/tutorial/03)| [Watch](https://youtu.be/bx1AVot4EEg) | [Read](https://bit.ly/3VYFD9d)  |
+| [ASS04: Understanding Script Editor Features](https://github.com/ashtonfei/ass/tree/main/tutorial/04)| [Watch](https://youtu.be/iS_E3ZLVPSg) | [Read](https://bit.ly/3VVxen3)  |
 
 #### Module 2: JavaScript Basics for Apps Script
 
